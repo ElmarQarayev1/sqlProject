@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D4B3AAA7-254A-459A-86CA-31D03EE49E19}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SqlProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SqlProject/BrandServices.cs">
+    <Files>
+      <File FileName="SqlProject/Program.cs" Line="35" Column="33" />
+      <File FileName="SqlProject/Brands.cs" Line="23" Column="1" />
+      <File FileName="SqlProject/BrandServices.cs" Line="203" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SqlProject" expanded="True">
+            <Node name="SqlProject">
+              <Node name="BrandServices.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
